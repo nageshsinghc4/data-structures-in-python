@@ -1,5 +1,14 @@
 # Stack implementation in python
+"""
+Here are some basic operations that allow us to perform different actions on a stack.
 
+Push: Add an element to the top of a stack
+Pop: Remove an element from the top of a stack
+IsEmpty: Check if the stack is empty
+IsFull: Check if the stack is full
+Peek: Get the value of the top element without removing it
+
+"""
 
 # Creating a stack
 def create_stack():
